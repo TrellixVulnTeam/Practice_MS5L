@@ -1,5 +1,7 @@
-$primary-color: orange;
+$primary-color: rgb(0, 255, 106);
+$secondary-color: rgb(243, 243, 250);
 
 body {
   background-color: $primary-color;
+  color: $secondary-color;
 }
